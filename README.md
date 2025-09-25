@@ -1,4 +1,4 @@
-# Accenture Insurance Agent - Litigation Analyzer
+# Insurance Analyzer Agent - Litigation Analyzer
 
 A sophisticated AI-powered document analysis platform designed for legal professionals to analyze litigation documents with intelligent chat capabilities and dynamic RAG (Retrieval-Augmented Generation) technology.
 
